@@ -1,0 +1,10 @@
+streamlit
+pymongo
+bcrypt
+python-dotenv
+groq
+pandas
+openpyxl
+reportlab
+matplotlib
+streamlit-option-menu
