@@ -74,6 +74,8 @@ project-cost-estimator-genai/
 ├── requirements.txt        # Dependencies
 ├── assets/                 # Images and UI assets
 ├── pages/                  # Streamlit multi-page UI
+├── reports/                # Example report generated
+├── utils/                  # Core logic and LLM Interaction using Grok Model
 ├── .gitignore              # Excludes .env and local cache
 └── README.md               # Project documentation
 ```
